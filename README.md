@@ -19,4 +19,6 @@ While the jakarta jaxb reference implementation is available as module, the usag
 
 ### jaxbhack (Runnable: Yes, Runtime Image: Yes)
 
-Since Sept. 2019 the JAF git repository does contain a module definition. Using this (newer) version as a dependency in the module project does allow a jlink based runtime image.
+Since Sept. 2019 the JAF git repository does contain a module definition (Version 1.2.2). Using this (newer) version as a dependency in the module project does allow a jlink based runtime image. 
+
+**This is in NO WAY a recommended workaround!**
